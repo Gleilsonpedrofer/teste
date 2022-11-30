@@ -2,7 +2,6 @@
 
 # 🟥 Automação com
 - depois de instalar e importar as libs necessárias execute o comando:
-```
 time.sleep(3)
 position = pyautogui.position()
 ```
